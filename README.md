@@ -1,4 +1,4 @@
-# Omnicore Networks — Public Tools
+# Omnicore Networks - Public Tools
 
 Scripts we use internally at Omnicore Networks. You're welcome to use them too.
 
@@ -58,4 +58,4 @@ Fork and change what you need for your own setup. If you want something merged u
 
 ## License
 
-Use these scripts however you like. No warranty — test on your own systems first.
+Use these scripts however you like. No warranty - test on your own systems first.
